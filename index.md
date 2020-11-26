@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my blog!
+I'm glad you are here. Hello!
 
 You can use the [editor on GitHub](https://github.com/Punpun1643/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
